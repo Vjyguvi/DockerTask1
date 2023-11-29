@@ -1,0 +1,9 @@
+Devops - Task6
+
+Install docker on EC2 and explore the docker commands (docker images, containers)
+
+> Docker pull <image name>
+> Docker run -d <image id or image name>
+> Docker stop or start < container id >
+> Docker rm < container id >
+> docker rmi < image id >
